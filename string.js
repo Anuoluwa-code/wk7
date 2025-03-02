@@ -1,9 +1,9 @@
 let text = "  Hello, world! This is a TEST stings.  it has  123 numbers and some extra spaces.   ";
 
 text - text.trim()
-console.log(Test);
+console.log(text);
 
-test = text.toLowerCase()
+text = text.toLowerCase()
 console.log(text)
 
 text = text.replace("test", "practice")

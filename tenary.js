@@ -15,5 +15,5 @@ let length = str.length > 10 ? "Long" : "Short";
 console.log(length);
 
 let p = 10, q = 10;
-let Equal = p === q ? "yes" : "No"
+let Equal = p === q ? "yes" : "No";
 console.log(Equal);

@@ -4,7 +4,7 @@ let c = 15
 let d = 20
 let e =25
 
- a++
+ a++;
  console.log(a);
 
  b--;
@@ -34,4 +34,3 @@ let e =25
  let results = a > b ? "Greater" : "Smaller";
  console.log(results);
 
- 
